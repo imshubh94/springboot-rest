@@ -1,0 +1,10 @@
+com\quickpay\springbootrest\controller\ProductController.class
+com\quickpay\springbootrest\controller\MobilesController.class
+com\quickpay\springbootrest\model\Product.class
+com\quickpay\springbootrest\serviceImpl\ProductServiceImpl.class
+com\quickpay\springbootrest\model\Mobiles.class
+com\quickpay\springbootrest\SpringbootRestApplication.class
+com\quickpay\springbootrest\serviceImpl\MobilesServiceImpl.class
+com\quickpay\springbootrest\service\IProductService.class
+com\quickpay\springbootrest\Mapper\MobilesMapper.class
+com\quickpay\springbootrest\service\IMobilesService.class
